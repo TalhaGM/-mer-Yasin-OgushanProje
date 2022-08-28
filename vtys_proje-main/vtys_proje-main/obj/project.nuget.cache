@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GuKZA9UdwMiBoZeGEytGQqwLyHtmv+sepzbejdR8X9hoBgfMIZ1D3b0UDde78Sk4qHr65PmmuhIN3R0myTScA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÖMER AYDIN\\Desktop\\rapor\\vtys_proje-main\\vtys_proje-main\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ÖMER AYDIN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
